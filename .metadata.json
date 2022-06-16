@@ -1,0 +1,20 @@
+[
+  {
+    "package": "aws.ecx",
+    "oncran": true
+  },
+  {
+    "package": "DockerParallel",
+    "oncran": true
+  },
+  {
+    "package": "ManagedCloudProvider",
+    "oncran": true
+  },
+  {
+    "package": "SharedObject"
+  },
+  {
+    "package": "gpuMagic"
+  }
+]
