@@ -10,11 +10,5 @@
   {
     "package": "ManagedCloudProvider",
     "oncran": true
-  },
-  {
-    "package": "SharedObject"
-  },
-  {
-    "package": "gpuMagic"
   }
 ]
