@@ -18,13 +18,18 @@
 	url = https://github.com/jiefei-wang/managedcloudprovider
 	shallow = true
 	registered = true
+[submodule "gpuMagic"]
+	path = gpuMagic
+	url = https://github.com/jiefei-wang/gpumagic
+	shallow = true
+	registered = true
 [submodule "SharedObject"]
 	path = SharedObject
 	url = https://github.com/jiefei-wang/sharedobject
 	shallow = true
 	registered = true
-[submodule "gpuMagic"]
-	path = gpuMagic
-	url = https://github.com/jiefei-wang/gpumagic
+[submodule "Travel"]
+	path = Travel
+	url = https://github.com/jiefei-wang/travel
 	shallow = true
 	registered = true

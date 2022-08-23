@@ -12,9 +12,12 @@
     "oncran": true
   },
   {
+    "package": "gpuMagic"
+  },
+  {
     "package": "SharedObject"
   },
   {
-    "package": "gpuMagic"
+    "package": "Travel"
   }
 ]
