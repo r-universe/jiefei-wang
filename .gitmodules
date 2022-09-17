@@ -23,11 +23,6 @@
 	url = https://github.com/jiefei-wang/gpumagic
 	shallow = true
 	registered = true
-[submodule "SharedObject"]
-	path = SharedObject
-	url = https://github.com/jiefei-wang/sharedobject
-	shallow = true
-	registered = true
 [submodule "Travel"]
 	path = Travel
 	url = https://github.com/jiefei-wang/travel
