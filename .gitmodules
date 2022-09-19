@@ -8,9 +8,24 @@
 	url = https://github.com/jiefei-wang/aws.ecx
 	shallow = true
 	registered = true
+[submodule "DockerParallel"]
+	path = DockerParallel
+	url = https://github.com/jiefei-wang/dockerparallel
+	shallow = true
+	registered = true
+[submodule "ManagedCloudProvider"]
+	path = ManagedCloudProvider
+	url = https://github.com/jiefei-wang/managedcloudprovider
+	shallow = true
+	registered = true
 [submodule "gpuMagic"]
 	path = gpuMagic
 	url = https://github.com/jiefei-wang/gpumagic
+	shallow = true
+	registered = true
+[submodule "SharedObject"]
+	path = SharedObject
+	url = https://github.com/jiefei-wang/sharedobject
 	shallow = true
 	registered = true
 [submodule "Travel"]
