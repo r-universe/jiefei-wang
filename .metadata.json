@@ -4,14 +4,6 @@
     "oncran": true
   },
   {
-    "package": "DockerParallel",
-    "oncran": true
-  },
-  {
-    "package": "ManagedCloudProvider",
-    "oncran": true
-  },
-  {
     "package": "gpuMagic"
   },
   {
