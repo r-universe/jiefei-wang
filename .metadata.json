@@ -15,9 +15,6 @@
     "package": "gpuMagic"
   },
   {
-    "package": "SharedObject"
-  },
-  {
     "package": "Travel"
   }
 ]
