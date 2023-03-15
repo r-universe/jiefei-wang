@@ -1,21 +1,21 @@
 [
   {
-    "package": "SharedObject"
-  },
-  {
     "package": "aws.ecx",
     "oncran": true
-  },
-  {
-    "package": "gpuMagic"
   },
   {
     "package": "DockerParallel",
     "oncran": true
   },
   {
+    "package": "gpuMagic"
+  },
+  {
     "package": "ManagedCloudProvider",
     "oncran": true
+  },
+  {
+    "package": "SharedObject"
   },
   {
     "package": "Travel"
