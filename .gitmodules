@@ -23,6 +23,11 @@
 	url = https://github.com/jiefei-wang/managedcloudprovider
 	shallow = true
 	registered = true
+[submodule "RedisBaseContainer"]
+	path = RedisBaseContainer
+	url = https://github.com/jiefei-wang/redisbasecontainer
+	shallow = true
+	registered = true
 [submodule "SharedObject"]
 	path = SharedObject
 	url = https://github.com/jiefei-wang/sharedobject
