@@ -2,15 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "aws.ecx"]
-	path = aws.ecx
-	url = https://github.com/jiefei-wang/aws.ecx
 [submodule "DockerParallel"]
 	path = DockerParallel
 	url = https://github.com/jiefei-wang/dockerparallel
-[submodule "gpuMagic"]
-	path = gpuMagic
-	url = https://github.com/jiefei-wang/gpumagic
 [submodule "ManagedCloudProvider"]
 	path = ManagedCloudProvider
 	url = https://github.com/jiefei-wang/managedcloudprovider
@@ -23,3 +17,9 @@
 [submodule "Travel"]
 	path = Travel
 	url = https://github.com/jiefei-wang/travel
+[submodule "aws.ecx"]
+	path = aws.ecx
+	url = https://github.com/jiefei-wang/aws.ecx
+[submodule "gpuMagic"]
+	path = gpuMagic
+	url = https://github.com/jiefei-wang/gpumagic
