@@ -14,6 +14,9 @@
 [submodule "SharedObject"]
 	path = SharedObject
 	url = https://github.com/jiefei-wang/sharedobject
+[submodule "Travel"]
+	path = Travel
+	url = https://github.com/jiefei-wang/travel
 [submodule "aws.ecx"]
 	path = aws.ecx
 	url = https://github.com/jiefei-wang/aws.ecx
