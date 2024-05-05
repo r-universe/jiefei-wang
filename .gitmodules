@@ -11,12 +11,6 @@
 [submodule "RedisBaseContainer"]
 	path = RedisBaseContainer
 	url = https://github.com/jiefei-wang/redisbasecontainer
-[submodule "SharedObject"]
-	path = SharedObject
-	url = https://github.com/jiefei-wang/sharedobject
 [submodule "aws.ecx"]
 	path = aws.ecx
 	url = https://github.com/jiefei-wang/aws.ecx
-[submodule "gpuMagic"]
-	path = gpuMagic
-	url = https://github.com/jiefei-wang/gpumagic
