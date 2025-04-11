@@ -5,6 +5,9 @@
 [submodule "DockerParallel"]
 	path = DockerParallel
 	url = https://github.com/jiefei-wang/dockerparallel
+[submodule "EZFragility"]
+	path = EZFragility
+	url = https://github.com/jiefei-wang/ezfragility
 [submodule "ManagedCloudProvider"]
 	path = ManagedCloudProvider
 	url = https://github.com/jiefei-wang/managedcloudprovider
