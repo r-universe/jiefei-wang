@@ -8,6 +8,9 @@
 [submodule "EZFragility"]
 	path = EZFragility
 	url = https://github.com/jiefei-wang/ezfragility
+[submodule "Epoch"]
+	path = Epoch
+	url = https://github.com/jiefei-wang/epoch
 [submodule "ManagedCloudProvider"]
 	path = ManagedCloudProvider
 	url = https://github.com/jiefei-wang/managedcloudprovider
